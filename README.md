@@ -39,5 +39,3 @@ Suppose you want to download images of cats. Here's how you can use the script:
 - Use the script responsibly and adhere to copyright and usage rights for downloaded images.
 
 ---
-
-This README.md file provides detailed information about the Google Image Downloader project, including its features, prerequisites, usage instructions, an example, and important notes for users. You can customize it further based on your project's specific details and requirements.
